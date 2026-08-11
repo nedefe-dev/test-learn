@@ -3,6 +3,10 @@ body {
   margin: 2rem;
 }
 
+h1 {
+  color: #0969da;
+}
+
 ul {
   list-style: none;
   padding: 0;
